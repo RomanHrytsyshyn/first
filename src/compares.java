@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 /**
  * Created by rhryts on 01.06.2017.
  */
-public class comparer {
+public class compares {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int a = Integer.parseInt(reader.readLine());
