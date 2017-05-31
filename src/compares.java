@@ -11,19 +11,19 @@ public class compares {
         int b = Integer.parseInt(reader.readLine());
         int c = Integer.parseInt(reader.readLine());
         int tmp;
-        if (a < b)
+        if (a > b)
         {
             tmp = a;
             a = b;
             b = tmp;
         }
-        if (a < c)
+        if (a > c)
         {
             tmp = a;
             a = c;
             c = tmp;
         }
-        if (b < c)
+        if (b > c)
         {
             tmp = b;
             b = c;
