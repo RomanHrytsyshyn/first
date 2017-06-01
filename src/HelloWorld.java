@@ -8,7 +8,7 @@ public class HelloWorld {
      // System.out.println("Hello World");
         System.out.print("The sum of q and w ");
         System.out.print(q);
-        System.out.print("+");
+        System.out.print(" + ");
         System.out.print(w);
         System.out.println(q+w);
     }
